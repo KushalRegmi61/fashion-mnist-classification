@@ -66,7 +66,7 @@ Some outputs generated during the project:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/fashion-mnist-classification.git
+git clone https://github.com/kushalregmi61/fashion-mnist-classification.git
 cd fashion-mnist-classification
 pip install -r requirements.txt
 ```
